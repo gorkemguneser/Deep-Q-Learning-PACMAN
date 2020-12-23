@@ -18,4 +18,4 @@ Even though initial results are promising, the model has only trained around 70 
 <b> Presentation </b>: [Here](https://docs.google.com/presentation/d/1hc7L-Xvr2DYcYipKMPUnhRqCNlJXesiG3y5EMFrViDM/edit#slide=id.gb1ff898c40_0_222)</br>
 
 ### Authors
-<br>[Gorkem Guneser](https://www.linkedin.com/in/gorkemguneser/)</br>
+[Gorkem Guneser](https://www.linkedin.com/in/gorkemguneser/)
