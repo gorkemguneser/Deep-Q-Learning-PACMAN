@@ -20,6 +20,11 @@ My agent takes its actions based on epsilon greedy strategy, where I initialized
 
 <br>Even though initial results are promising, the model has only trained around 70 hours now, whereas I need weeks to complete full training.</br>
 
+## Requirements
+<li>Python==3.8.6</li>
+<li>Keras==2.3.0</li>
+<li>numpy==1.17.2</li>
+
 
 ### Links
 <b> GitHub </b>: [Link](https://github.com/gorkemguneser/Deep-Q-Learning-PACMAN)</br>
