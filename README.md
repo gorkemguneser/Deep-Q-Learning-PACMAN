@@ -11,7 +11,7 @@ Same applied for my target network.
 My agent takes its actions based on epsilon greedy strategy, where I initialized epsilon as 1.0 and decayed it gradually.
 
 
-Even though initial results are promising, the model has only trained around 70 hours now, whereas I need weeks to complete full training.
+<br>Even though initial results are promising, the model has only trained around 70 hours now, whereas I need weeks to complete full training.</br>
 
 
 ### Links
