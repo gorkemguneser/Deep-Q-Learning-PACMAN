@@ -2,7 +2,7 @@
 
 In this project, I used Deep Reinforcement Learning to combine artificial neural networks with reinforcement learning.
 
-![](Deep-Q-Learning-PACMAN/final_gif)
+![final_gif](https://user-images.githubusercontent.com/57323851/102990439-6d518700-4528-11eb-9245-08b363fee0ca.gif)
 
 ## Deep Neural Network
 I have created 2 hidden (Dense) layers with 128 neurons in each to create my DQN. My input layer is directly feeded by states of the environment. There are 9 possible actions that my agent can take, so my output layer consists of 9 neurons in total. 
