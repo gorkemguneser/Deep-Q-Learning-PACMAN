@@ -22,6 +22,7 @@ My agent takes its actions based on epsilon greedy strategy, where I initialized
 
 ## Requirements
 <li>Python==3.8.6</li>
+<li>tensorFlow==2.0.0</li>
 <li>Keras==2.3.0</li>
 <li>numpy==1.17.2</li>
 
