@@ -13,7 +13,7 @@ My agent takes its actions based on epsilon greedy strategy, where I initialized
 ## Initial Parameters
 <li>Epsilon: 0.99 </li>
 <li>Epsilon decay: 0.9998</li>
-<li>Disctount factor: 0.99</li>
+<li>Discount factor: 0.99</li>
 <li>Learning rate: 0.0001</li>
 
 
